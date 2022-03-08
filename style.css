@@ -1,0 +1,22 @@
+body{
+    background-image:url("bggg.jpg");
+    background-position:center;
+}
+#button{
+    background-color:#79e0e0;
+    border-radius:10px;
+    width:200px;
+    height:55px;
+    font-family: 'Shizuru', cursive;
+    color:rgb(255, 255, 255);
+    font-size:20px;
+}
+#h3{
+   border:5px double #0fe0e0;
+   font-family: 'Shizuru', cursive;
+   font-size:30px;
+   font-weight:bold;
+}
+canvas{
+    border:5px ridge black;
+}
